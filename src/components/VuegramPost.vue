@@ -4,7 +4,7 @@
       <div class="text-left">
         <figure class="d-inline">
           <img
-            src="../assets/profile.jpg"
+            src="../assets/profile.jpeg"
             class="rounded-circle profile-thumbnail"
           />
         </figure>
@@ -20,13 +20,7 @@
     <div class="content">
       <div class="icons d-flex flex-row text-left">
         <div class="heart p-0">
-          <b-icon icon="heart" style="width: 20px"></b-icon>
-        </div>
-        <div class="heart p-0">
-          <b-icon icon="heart" style="width: 20px"></b-icon>
-        </div>
-        <div class="heart p-0">
-          <b-icon icon="heart" style="width: 20px"></b-icon>
+          <b-icon icon="heart" style="width: 25px; height: 30px"></b-icon>
         </div>
       </div>
 

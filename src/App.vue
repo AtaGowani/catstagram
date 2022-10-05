@@ -9,7 +9,7 @@
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#"
                   ><img
-                    src="./assets/profile.jpg"
+                    src="./assets/profile.jpeg"
                     class="rounded-circle profile-img"
                     alt="profile picture"
                 /></a>
