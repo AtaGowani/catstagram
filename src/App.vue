@@ -3,20 +3,23 @@
     <div class="app-header">
       <div class="navbar navbar-expand-lg bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Catstagram</a>
+          <a class="navbar-brand logo" href="#">Catstagram</a>
           <div>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="#"
-                  >[profile pic here]</a
-                >
+                  ><img
+                    src="./assets/profile.jpg"
+                    class="rounded-circle profile-img"
+                    alt="profile picture"
+                /></a>
               </li>
             </ul>
           </div>
         </div>
       </div>
     </div>
-    <div class="app-phone d-flex flex-row justify-content-center">
+    <div class="app-phone d-flex flex-column">
       <div class="p-2">
         <phone-body
           :step="step"

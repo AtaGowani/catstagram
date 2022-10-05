@@ -3,7 +3,10 @@
     <div class="header">
       <div class="text-left">
         <figure class="d-inline">
-          <img :src="post.userImage" class="rounded-circle profile-thumbnail" />
+          <img
+            src="../assets/profile.jpg"
+            class="rounded-circle profile-thumbnail"
+          />
         </figure>
         <span class="username">{{ post.username }}</span>
       </div>

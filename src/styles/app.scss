@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Satisfy&display=swap');
+
 $small: 520px;
 $medium: 768px;
 $large: 1216px;
@@ -11,8 +13,19 @@ body,
   font-family: "Roboto", sans-serif;
 }
 
+.navbar-brand.logo {
+  font-family: 'Satisfy', cursive;
+  font-size: 2rem;
+}
+
+.profile-img {
+  width: 45px;
+}
+
 .app-phone {
   background-color: white;
+  max-width: 500px;
+  margin: 0 auto;
   overflow: hidden;
 }
 
@@ -146,7 +159,6 @@ body,
 
   .app-phone,
   .app-phone-scroll-cover {
-    height: 100%;
     width: 100%;
   }
 

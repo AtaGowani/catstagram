@@ -1,7 +1,7 @@
 export default [
   {
-    username: "socleansofreshh",
-    userImage: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me_3.jpg",
+    username: "iris.the.cat",
+    userImage: "hard-coded",
     postImage:
       "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/tropical_beach.jpg",
     likes: 36,
@@ -10,8 +10,8 @@ export default [
     filter: "perpetua"
   },
   {
-    username: "djirdehh",
-    userImage: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/me2.png",
+    username: "iris.the.cat",
+    userImage: "hard-coded",
     postImage:
       "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/downtown.jpg",
     likes: 20,
@@ -20,9 +20,8 @@ export default [
     filter: "clarendon"
   },
   {
-    username: "puppers",
-    userImage:
-      "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/pug_personal.jpg",
+    username: "iris.the.cat",
+    userImage: "hard-coded",
     postImage:
       "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1211695/puppers.jpg",
     likes: 49,
