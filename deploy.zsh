@@ -20,9 +20,6 @@ mv dist/* ./
 # remove dist
 rm -r dist
 
-# Add CNAME
-echo catstagram > CNAME
-
 # add, commit, and push to GitHub
 git add .
 git commit -m "prod update by script"
