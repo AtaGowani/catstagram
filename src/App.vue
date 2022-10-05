@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div class="app-header">
-      <div class="navbar navbar-expand-lg bg-light">
+      <div class="navbar navbar-expand-lg bg-white">
         <div class="container-fluid">
           <a class="navbar-brand logo" href="#">Catstagram</a>
           <div>

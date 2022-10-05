@@ -9,7 +9,7 @@ body,
 #app {
   height: 100%;
   margin: 0;
-  background: #e6ecf1;
+  background: #fafafa;
   font-family: "Roboto", sans-serif;
 }
 
@@ -23,10 +23,13 @@ body,
 }
 
 .app-phone {
-  background-color: white;
   max-width: 500px;
   margin: 0 auto;
   overflow: hidden;
+}
+
+.bg-white {
+  background-color: #fff !important;
 }
 
 .phone-header {
