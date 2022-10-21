@@ -17,6 +17,9 @@ rm -r ^dist
 # move everything out of dist
 mv dist/* ./ 
 
+# add CNAME
+echo catstagram.app > CNAME
+
 # remove dist
 rm -r dist
 
